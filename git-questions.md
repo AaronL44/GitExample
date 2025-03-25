@@ -11,3 +11,7 @@
 3. What is the command to check the status of your files in git?
 
 - git status
+
+4. What command sets up the repo?
+
+- git init
