@@ -7,3 +7,7 @@
 2. What is the command to commit to the repo and create a version?
 
 - git commit -m "Meaningful message"
+
+3. What is the command to check the status of your files in git?
+
+- git status
